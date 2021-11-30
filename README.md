@@ -1,6 +1,6 @@
 ### Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-**I am a Data Analyist who want to help others to make the right desicions  ,  _data driven ones!_**
+**I am a Data Analyst who wants to help others make the right decisions: _data driven ones_ **
 <hr>
 
 ### Inspiration Quote
